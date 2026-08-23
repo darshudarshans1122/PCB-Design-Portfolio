@@ -1,1 +1,25 @@
+I²C LCD Backpack PCB
 
+A compact I²C LCD Backpack PCB designed to interface a 16×2 LCD with a microcontroller using the I²C protocol.
+
+Features
+
+- PCF8574 I²C I/O Expander
+- 16×2 LCD interface
+- Contrast adjustment
+- Backlight control
+- Compact PCB design
+- Designed using KiCad
+
+Tools
+
+- KiCad
+- PCB Design & Layout
+- Schematic Capture
+- ERC/DRC Verification
+
+Applications
+
+Arduino, Raspberry Pi, embedded systems, and IoT projects.
+
+ 
